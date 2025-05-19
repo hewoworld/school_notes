@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Naturfag/Fysik  og Kemi/Fysik og kemi noter.md",
+                "file": "Dansk/Dansk noter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fysik og kemi noter"
+              "title": "Dansk noter"
             }
           }
         ]
@@ -170,11 +170,18 @@
   },
   "active": "cbead9d266873516",
   "lastOpenFiles": [
-    "Dansk/Dansk noter.md",
-    "Naturfag/Fysik  og Kemi/Fysik og kemi noter.md",
-    "HDS/HDS noter.md",
+    "Naturfag/Biologi/Biologi noter.md",
+    "Kulturfag/Historie/Historie noter.md",
     "Deutch/Tysk noter.md",
     "Matematik/Matematik noter.md",
+    "Naturfag/Fysik  og Kemi/Fysik og kemi noter.md",
+    "Billed eksempel.md",
+    "Untitled",
+    "HDS/HDS noter.md",
+    "abc.ordbogen.com.md",
+    "Pictures/innovationsmodel.png",
+    "Pictures",
+    "Dansk/Dansk noter.md",
     "Naturfag/Geografi",
     "Naturfag/Biologi",
     "Naturfag/Fysik  og Kemi",
@@ -183,8 +190,6 @@
     "Kulturfag",
     "Naturfag",
     "HDS",
-    "Deutch",
-    "English",
     "Welcome.md"
   ]
 }

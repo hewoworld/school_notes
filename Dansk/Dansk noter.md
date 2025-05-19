@@ -37,3 +37,6 @@
 2. Spørg (==Fx hvis der er ord der er svære==)
 3. Opklar (==Nogle spørgsmål til historien?==)
 4. Opsummer (==Hvad er der sket indtil videre==)
+## Gode tips
+### Spise-reglen
+Hvis du er i tvivl om der skal bruges nutids-r eller ej, så kan man erstatte udsagnsordet med spise/spiser og se hvilken der giver mest mening.

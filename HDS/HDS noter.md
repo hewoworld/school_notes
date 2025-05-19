@@ -18,6 +18,6 @@
 > 	- Playtest din idé på din målgruppe
 > - Evaluér
 > 	- Hvordan gik playtesten? Forbedr din idé i følge den feedback du får.
+> <img src="Pictures/innovationsmodel.png">
 
-<img src="Pictures/innovationsmodel.png">
-- Man kan ikke alt med det samme. Typisk skal man vente lidt før man får egenskaberne eller idéerne til at lave noget man gerne vil
+Man kan ikke alt med det samme. Typisk skal man vente lidt før man får egenskaberne eller idéerne til at lave noget man gerne vil
