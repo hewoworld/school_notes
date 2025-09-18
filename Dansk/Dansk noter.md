@@ -17,7 +17,7 @@
 >- Enhedsregel (==Kronologisk rækkefølge==)
 >- Hvileregel (==altid en pause efter noget action==)
 ### Folkeeventyr
-- Mund til mund (==er ikke blevet skrevet ned==)
+- Mund til mund (==er ikke blevet skrevet ned. IKKE kysserier==)
 - Mange versioner
 - Ofte gamle
 - Uden nogen kendt forfatter
@@ -40,3 +40,25 @@
 ## Gode tips
 ### Spise-reglen
 Hvis du er i tvivl om der skal bruges nutids-r eller ej, så kan man erstatte udsagnsordet med spise/spiser og se hvilken der giver mest mening.
+
+### Ordbogen
+Brug ALTID [ordbogen](https://ordbogen.com) hvis du er i tvivl (med mindre der er nationalprøve. Det er nemlig **FORBUDT** at bruge ordbogen, fordi så er det ikke dine evner de ser. Flere ting her: [[#Nationalprøven]])
+
+## Nationalprøven
+**Husk nu at:**
+1. INGEN ordbog tilladt
+2. Man kan kun se den sidste besvarede opgave, så doppeltjek **ALTID** dine svar **FØR** du går videre (medmindre det er `testogprøver.dk`)
+3. Slap af. Hvis du stresser kan du ikke tænke ordentligt
+4. Du kan ikke spørge om hjælp.
+5. Hvis du ikke kan tænke, så vent og måske kig ud i luften, eller lyt til din musik, hvis du har
+6. Du kan kigge på spørgsmålene, så lede efter svarene i teksten
+## Svære ord til eksamen
+- Intertekstuel reference: Et reference til et andet medie. Fx: TAWOG, TWWWOG
+- Socialisme = Kommunisme
+- Liberalisme = Kapitalisme
+- Nationalisme = Mit land er det bedste
+- Propaganda = en form for reklame eller metode, der bruges til at overbevise andre om noget
+- Indoktrinering = at påtvinge andre bestemte meninger og holdninger gennem systematisk, intens eller langvarig påvirkning
+- Stalin = en kommunistisk russisk diktator
+- Krim-krisen = den russiske invadering af den ukrainske halvø Krim i marts 2014
+- Opposition = når kongerne i skak står overfor hinanden / Opposition er politiske partier eller grupper, der ikke er en del af den siddende regering og derfor fungerer som en modstander til regeringen

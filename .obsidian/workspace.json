@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cbead9d266873516",
+            "id": "55a983e56adac33b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,65 @@
               "icon": "lucide-file",
               "title": "Dansk noter"
             }
+          },
+          {
+            "id": "1d239e23367a8171",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matematik/Matematik noter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Matematik noter"
+            }
+          },
+          {
+            "id": "cbead9d266873516",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Naturfag/Biologi/Biologi noter.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Biologi noter"
+            }
+          },
+          {
+            "id": "8e7a2b41f06cf5fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kulturfag/Historie/Historie noter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Historie noter"
+            }
+          },
+          {
+            "id": "598b1da127db39b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kulturfag/Religion/Religion noter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Religion noter"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,6 +217,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -168,28 +226,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cbead9d266873516",
+  "active": "1d239e23367a8171",
   "lastOpenFiles": [
     "Naturfag/Biologi/Biologi noter.md",
-    "Kulturfag/Historie/Historie noter.md",
-    "Deutch/Tysk noter.md",
-    "Matematik/Matematik noter.md",
-    "Naturfag/Fysik  og Kemi/Fysik og kemi noter.md",
+    "Pictures/Bæredygtighed.png",
     "Billed eksempel.md",
-    "Untitled",
-    "HDS/HDS noter.md",
-    "abc.ordbogen.com.md",
+    "Pictures/voinkel.png",
+    "Pictures/sp_ndingsr_kken_5-3-7.webp",
+    "Pictures/Periodiskesystem.png",
     "Pictures/innovationsmodel.png",
-    "Pictures",
+    "Naturfag/Fysik  og Kemi/Fysik og kemi noter.md",
+    "Deutch/Tysk noter.md",
+    "Kulturfag/Historie/Historie noter.md",
+    "Kulturfag/Religion/Religion noter.md",
+    "Matematik/Matematik noter.md",
     "Dansk/Dansk noter.md",
+    "English/English notes.md",
+    "Pictures/sp_ndingsr_kken_5-3-7.webp.opdownload",
+    "Pictures/Bæredygtighed.png.opdownload",
+    "Naturfag/Geografi/Geografi noter.md",
+    "voinkel.png",
+    "HDS/HDS noter.md",
+    "Untitled",
+    "abc.ordbogen.com.md",
+    "Pictures",
     "Naturfag/Geografi",
     "Naturfag/Biologi",
     "Naturfag/Fysik  og Kemi",
     "Kulturfag/Historie",
     "Kulturfag/Religion",
     "Kulturfag",
-    "Naturfag",
-    "HDS",
     "Welcome.md"
   ]
 }
