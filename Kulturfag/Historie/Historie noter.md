@@ -50,3 +50,6 @@ Dem, der dømmer folk, der har brudt lovene
 ## Verdenskrigene
 ### 1. verdenskrig
 ### 2. verdenskrig
+
+## Industrialiseringen
+### Dampmaskinen

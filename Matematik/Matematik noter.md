@@ -95,6 +95,7 @@ Man finder fællesnævner og derefter plusser man tællere sammen
 
 ### Brøk - brøk
 ### Brøk * brøk
+Man ganger tæller med tæller og nævner med nævner
 ### Brøk / brøk
 
 
