@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -240,10 +240,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cbead9d266873516",
+  "active": "8d6e5855c7e6d087",
   "lastOpenFiles": [
-    "Naturfag/Fysik  og Kemi/Fysik og kemi noter.md",
     "Naturfag/Biologi/Biologi noter.md",
+    "Naturfag/Fysik  og Kemi/Fysik og kemi noter.md",
     "Kulturfag/Religion/Religion noter.md",
     "Deutch/Tysk noter.md",
     "Billed eksempel.md",

@@ -14,7 +14,7 @@ Alle grundstoffer vil gerne være som dem i gr. 8, for de er stabile.
 - Uafstemt reaktionsligning: Det omvendte af en afstemt reaktionsligning
 - Reaktant: Det der reagerer med hinanden
 - Produkter: Det produkt/produkter reaktanter giver når de reagerer med hinanden
-
+- Oktetregel: Alle atomer vil have 8 elektroner i yderste skal
 ### Grupper, perioder og atomnummer
 #### Perioder
 Perioderne er antallet af skaller en atom har
