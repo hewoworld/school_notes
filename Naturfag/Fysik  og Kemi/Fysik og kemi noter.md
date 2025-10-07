@@ -9,6 +9,12 @@
 ## Det periodiske system<img src='Pictures/Periodiskesystem.png' width='400' height='200' align = 'right'>
 Alle grundstoffer vil gerne være som dem i gr. 8, for de er stabile.
 
+### Fokusord
+- Afstemt reaktionsligning: en reaktionsligning hvor der er lige mange atomer på begge sider af lighedstegn
+- Uafstemt reaktionsligning: Det omvendte af en afstemt reaktionsligning
+- Reaktant: Det der reagerer med hinanden
+- Produkter: Det produkt/produkter reaktanter giver når de reagerer med hinanden
+
 ### Grupper, perioder og atomnummer
 #### Perioder
 Perioderne er antallet af skaller en atom har
@@ -43,3 +49,11 @@ Hvor mange protoner der er i et atom
 - Korrosion = Rust
 - $4 Al + 3 O^2 → 4 Al^3.^+ + 6 O^2.^- → 2 Al^2 O^3$ = Aluminiums rustformel
 - Cu=Kobber
+## Respiration og fotosyntese
+To processer der er det omvendte af hinanden, bogstaveligt talt
+### Fotosyntese
+Det planter gør for at lave ilt.
+$6 CO^2 + 6 H^2O + e → C^6H^12O^6 + 6 O^2$
+### Respiration
+Alle levende organismer laver respiration.
+$C^6H^12O^6 + 6 O^2 → 6 CO^2 + 6 H^2O + e$
