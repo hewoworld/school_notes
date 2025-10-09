@@ -53,3 +53,11 @@ Dem, der dømmer folk, der har brudt lovene
 
 ## Industrialiseringen
 ### Dampmaskinen
+
+## Årsag-Følge-Virkning
+### Årsag
+Hvad der først sker
+### Følge
+Hvad sker der så
+### Virkning
+Hvad er løsningen
