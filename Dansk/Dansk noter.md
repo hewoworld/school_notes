@@ -43,6 +43,9 @@ Hvis du er i tvivl om der skal bruges nutids-r eller ej, så kan man erstatte ud
 
 ### Ordbogen
 Brug ALTID [ordbogen](https://ordbogen.com) hvis du er i tvivl (med mindre der er nationalprøve. Det er nemlig **FORBUDT** at bruge ordbogen, fordi så er det ikke dine evner de ser. Flere ting her: [[#Nationalprøven]])
+### Opremselsesbindestreg
+Det hedder ikke danse og køretøj, eller dansetøj og køretøj det hedder danse- og køretøj
+Hvis den skal gøres længere hedder det lege- danse- og køretøj
 
 ## Nationalprøven
 **Husk nu at:**

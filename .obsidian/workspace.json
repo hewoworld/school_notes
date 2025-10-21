@@ -91,8 +91,7 @@
               "title": "Historie noter"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,8 +239,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "598b1da127db39b7",
+  "active": "55a983e56adac33b",
   "lastOpenFiles": [
+    "Kulturfag/Historie/Historie noter.md",
     "Kulturfag/Religion/Religion noter.md",
     "Matematik/Matematik noter.md",
     "Naturfag/Fysik  og Kemi/Fysik og kemi noter.md",
@@ -250,7 +250,6 @@
     "Billed eksempel.md",
     "Pictures/mitokondria.png",
     "Pictures/mitokondria.png.opdownload",
-    "Kulturfag/Historie/Historie noter.md",
     "Pictures/Bæredygtighed.png",
     "Pictures/voinkel.png",
     "Pictures/sp_ndingsr_kken_5-3-7.webp",
