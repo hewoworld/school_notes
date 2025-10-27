@@ -65,3 +65,59 @@ Hvis den skal gøres længere hedder det lege- danse- og køretøj
 - Stalin = en kommunistisk russisk diktator
 - Krim-krisen = den russiske invadering af den ukrainske halvø Krim i marts 2014
 - Opposition = når kongerne i skak står overfor hinanden / Opposition er politiske partier eller grupper, der ikke er en del af den siddende regering og derfor fungerer som en modstander til regeringen
+## Ordklasser
+### Substantiver (navneord)
+
+- **Hvad?** Navne på ting, personer, steder, begreber.
+- **Eksempler:** bord, skole, kærlighed, Peter
+- **Test:** Kan sættes i ental/flertal og ofte med “en” eller “et”
+
+### Verber (udsagnsord)
+
+- **Hvad?** Noget man gør eller noget der sker.
+- **Eksempler:** løber, er, sover, tænker
+- **Test:** Kan bøjes i tid (løber, løb, er løbet)
+
+### Adjektiver (tillægsord)
+
+- **Hvad?** Beskriver substantiver (hvordan noget er)
+- **Eksempler:** stor, grim, sjov, klog
+- **Test:** Kan ofte gradbøjes (stor – større – størst)
+
+### Adverbier (biord)
+
+- **Hvad?** Beskriver verber, adjektiver eller hele sætninger
+- **Eksempler:** hurtigt, meget, ikke, måske, der
+- **Test:** Svarer ofte på: hvordan? hvornår? hvor?
+
+### Pronominer (stedord)
+
+- **Hvad?** Står i stedet for navneord
+- **Eksempler:** jeg, du, han, hun, den, som, hinanden
+
+### Artikel (kendeord)
+
+- **Hvad?** Står foran substantiver
+- **Eksempler:** en, et, den, det
+- **Test:** “en bil”, “det hus”
+
+### Konjunktioner (bindeord)
+
+- **Hvad?** Binder sætninger eller ord sammen
+- **Eksempler:** og, men, eller, fordi, hvis
+
+### Præpositioner (forholdsord)
+
+- **Hvad?** Angiver forhold i tid eller sted
+- **Eksempler:** i, på, under, efter, ved siden af
+- **Test:** Ofte foran en styrelse (“i huset”, “på bordet”)
+
+### Interjektioner (udråbsord)
+
+- **Hvad?** Udråb og lyde
+- **Eksempler:** av!, hej!, øv!, wow!
+
+### Numeralier (talord)
+
+- **Hvad?** Tal og rækkefølger
+- **Eksempler:** en, to, første, anden
