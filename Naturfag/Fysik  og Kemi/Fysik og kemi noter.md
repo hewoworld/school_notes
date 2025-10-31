@@ -45,7 +45,7 @@ Hvor mange protoner der er i et atom
 - Spændingsrækken = en rangordning af metaller og brint, med brint lige i midten
 - Malm = en generel betegnelse for naturligt forekommende bjergarter
 - $Fe^2 O^3$ = Hematit
-- $Fe^2 O^4$ = Magnetit
+- $Fe^3 O^3$ = Magnetit
 - Korrosion = Rust
 - $4 Al + 3 O^2 → 4 Al^3.^+ + 6 O^2.^- → 2 Al^2 O^3$ = Aluminiums rustformel
 - Cu=Kobber
