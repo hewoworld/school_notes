@@ -133,3 +133,13 @@ Billeder kan fange læserens opmærksomhed, og har altid en billedtekst, som kor
 ### Nyhedstrekant
 <img src='Pictures/hent.jpg' width='300' height='250' align = 'right'>
 Jo højere oppe tingene er i en avisartikel, jo mere vigtigt er det. 
+
+
+## Teaterstykket 
+ Den 26-11-2025 så jeg en teaterstykke. Der var bl.a. rigtig meget dans. Men der var en historie. Det handlede om hvordan voksne der er født på Danmark og er opdraget her. Men det handlede kun af de voksne som ikke havde rød pas. Hvordan det var svært for dem for at tilpasse sig uden at have den røde pas. Det handlede især om en dreng som jeg tror hed Ali. Han havde rigtig mange venner her i Danmark men han fik en besked at han har 30 dag til at komme ud af Danmark. (Han var på denne tidspunkt 18-22 ish) Og ham og hans venner de dansede.
+
+Det handlede egentlig om hvordan de folk har det når de ikke har rød pas og skal senere henne flytte ud af Danmark. Den drengegruppe havde også en ven. Men det der skete til ham, var at der kom pludselig 15-20 betjente til hans lejlighed og så tog hans families ting, puttede det i sort poser og så tog dem til lufthavn.
+
+Nogle af de temaer teaterstykket handlede om var fx, Miljø, identitet
+
+Og det handlede om identitet fordi de folk på teaterstykket havde flere. En dansk en og så fx en palæstinensisk en.
