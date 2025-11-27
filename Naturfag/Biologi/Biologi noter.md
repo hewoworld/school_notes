@@ -38,3 +38,5 @@ Alle levende organismer har stofskifte (spiser mad og laver selv afføring)
 Alle mennesker, planter, dyr og mikroorganismer er levende organismer bortset fra virus, for de har ikke deres egen stofskifte
 ### Diffusion
 Diffusion er hvor stoffer bevæger sig uden at bruge energi. Stofferne bevæger sig mod de steder hvor der er lav koncentration af det samme stof, f.eks. vand søger mod salt, fordi der er næsten ikke noget vand i saltet mere.
+## Websites:
+[Biotech Academy](https://www.biotechacademy.dk/undervisning/ordliste)

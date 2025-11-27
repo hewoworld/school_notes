@@ -47,24 +47,7 @@ Brug ALTID [ordbogen](https://ordbogen.com) hvis du er i tvivl (med mindre der e
 Det hedder ikke danse og køretøj, eller dansetøj og køretøj det hedder danse- og køretøj
 Hvis den skal gøres længere hedder det lege- danse- og køretøj
 
-## Nationalprøven
-**Husk nu at:**
-1. INGEN ordbog tilladt
-2. Man kan kun se den sidste besvarede opgave, så doppeltjek **ALTID** dine svar **FØR** du går videre (medmindre det er `testogprøver.dk`)
-3. Slap af. Hvis du stresser kan du ikke tænke ordentligt
-4. Du kan ikke spørge om hjælp.
-5. Hvis du ikke kan tænke, så vent og måske kig ud i luften, eller lyt til din musik, hvis du har
-6. Du kan kigge på spørgsmålene, så lede efter svarene i teksten
-## Svære ord til eksamen
-- Intertekstuel reference: Et reference til et andet medie. Fx: TAWOG, TWWWOG
-- Socialisme = Kommunisme
-- Liberalisme = Kapitalisme
-- Nationalisme = Mit land er det bedste
-- Propaganda = en form for reklame eller metode, der bruges til at overbevise andre om noget
-- Indoktrinering = at påtvinge andre bestemte meninger og holdninger gennem systematisk, intens eller langvarig påvirkning
-- Stalin = en kommunistisk russisk diktator
-- Krim-krisen = den russiske invadering af den ukrainske halvø Krim i marts 2014
-- Opposition = når kongerne i skak står overfor hinanden / Opposition er politiske partier eller grupper, der ikke er en del af den siddende regering og derfor fungerer som en modstander til regeringen
+
 ## Ordklasser
 ### Substantiver (navneord)
 
@@ -121,3 +104,32 @@ Hvis den skal gøres længere hedder det lege- danse- og køretøj
 
 - **Hvad?** Tal og rækkefølger
 - **Eksempler:** en, to, første, anden
+
+## Aviser
+Journalister skal skrive ting objektivt, ellers kan de blive fyret.
+### Avistyper
+#### Tabloid
+Kort catchy rubrik, som fanger læserens opmærksomhed, f.eks: 
+```
+Tre mænd dømt for voldtægt på hoteltoilet
+```
+
+Har samme `lix`-niveau som en jumbobog (en tegneseriesamling med masser af Anders And og Mickey Mouse)
+Skal læses i frokostpausen, med håndværkere som målgruppe.
+#### Omnibus
+Har sektioner, f.eks: `Økonomi`, `Sport`, `News around the world`
+Lidt længere med sværere ord, så du kan læse dem derhjemme
+
+### Layout
+Papir-aviser, har spalter og det har online-aviser ikke men ellers er det, det samme, med samme margener, billeder med billedtekst, rubrik, underrubrik, manchet, og nogle gange faktabokse.
+#### Rubrik
+Artiklernes ord for overskrift.
+#### Underrubrik
+En mere grundig fordybelse af artiklen end rubrikken, men stadigvæk ret kort.
+#### Manchet
+Forlængelse af underrubrikken
+#### Billeder
+Billeder kan fange læserens opmærksomhed, og har altid en billedtekst, som kort siger hvad der sker på billedet
+### Nyhedstrekant
+<img src='Pictures/hent.jpg' width='300' height='250' align = 'right'>
+Jo højere oppe tingene er i en avisartikel, jo mere vigtigt er det. 

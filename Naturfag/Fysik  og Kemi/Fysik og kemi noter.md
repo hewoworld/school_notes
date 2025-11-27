@@ -57,3 +57,11 @@ $6 CO^2 + 6 H^2O + e → C^6H^12O^6 + 6 O^2$
 ### Respiration
 Alle levende organismer laver respiration.
 $C^6H^12O^6 + 6 O^2 → 6 CO^2 + 6 H^2O + e$
+## Magnetisme
+### Fokusord
+- Magnetisere = at tiltrække noget med magnetisme
+- Ferromagnetiske materialer = Nogle materialer som er magnetiske, der også indeholder jern
+- Inducere / induktion = Bruges til at beskrive fænomener, hvor et tidsvarierende magnetfelt skaber strøm
+- Afmagnetisering = når et magnetisk materiale mister sin magnetisme
+- Savklinge = Metallet på en sav, der bruges til at skære med.
+- Curie punktet = den temperatur, hvor et ferromagnetisk materiale mister sin permanente magnetisme og bliver paramagnetisk

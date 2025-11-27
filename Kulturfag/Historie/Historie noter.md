@@ -1,10 +1,3 @@
-## Arbejdernes internationale kampdag
-
-### Slaget på fælleden
-
-### Arbejderbevægelsen
-
-
 ## Grundloven
 ###  Grundlovssangen
 
@@ -29,10 +22,8 @@ Han drak også ret meget.
 Den 2. til den 5. september
 Det første statsangreb.
 ### Treårskrigen
-
 Danmark blev også ramt af den nationalliberale bølge, da de nationalliberale tysksindede borgerne i Slesvig og Holsten krævede, at de to landsdele blev løsrevet fra resten af kongeriget. Forsøget på at løsrive Slesvig og Holsten blev ikke accepteret af magthaverne i Danmark, hvilket førte til Treårskrigen (1848-1850).
 ### Borgernes nye rettigheder
-
 Med Grundloven fik borgere i Danmark personlige og politiske rettigheder i kraft af ytringsfrihed, foreningsfrihed, forsamlingsfrihed og trosfrihed.
 
 Grundloven beskyttede også borgernes ejendomsret, og det blev vedtaget, at det ikke var lovligt for politiet at trænge ind i private hjem uden tilladelse fra en dommer. Retssikkerheden blev sikret ved, at en anholdt altid skulle stilles for en dommer inden for 24 timer efter sin anholdelse.
@@ -53,6 +44,13 @@ Dem, der dømmer folk, der har brudt lovene
 
 ## Industrialiseringen
 ### Dampmaskinen
+
+### Arbejdernes internationale kampdag
+
+#### Slaget på fælleden
+
+#### Arbejderbevægelsen
+Dengang da lønnen var omkring 39 øre i timen, begyndte folk at sætte sig i arbejdslauger, så f.eks. håndværkerne var sammen med håndværkerne, og murerne var sammen med murerne.
 
 ## Årsag-Følge-Virkning
 ### Årsag
