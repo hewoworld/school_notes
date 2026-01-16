@@ -135,6 +135,24 @@ Billeder kan fange læserens opmærksomhed, og har altid en billedtekst, som kor
 Jo højere oppe tingene er i en avisartikel, jo mere vigtigt er det. 
 
 
+## Skriftlig fremstilling
+### Indledning
+Der er 3 gode måder at starte din tekst på:
+#### Direkte henvendelse
+Den direkte henvendelse til læseren er godt fordi det kan fange din læsers opmærksomhed eftersom de ikke bruges tit.
+**Eksempler**
+- Kender du det når...
+- Har du nogensinde prøvet at...
+#### En replik
+Replikken kan fange din læsers opmærksomhed, fordi de er nysgerrige på hvem der snakker og hvorfor de siger hvad de siger
+**Eksempler**
+- "Shut the duck up"
+- "HAR ALLESAMMEN GLEMT ...?"
+#### En scene
+Scenen kan fange din læsers opmærksomhed, fordi det giver din læser et kraftigt billede inde i deres hoved.
+**Eksempler**
+- Solen skinnede kraftig. Himlen var lyseblå. Blodet var kraftigt rød
+- 
 ## Teaterstykket 
  Den 26-11-2025 så jeg en teaterstykke. Der var bl.a. rigtig meget dans. Men der var en historie. Det handlede om hvordan voksne der er født på Danmark og er opdraget her. Men det handlede kun af de voksne som ikke havde rød pas. Hvordan det var svært for dem for at tilpasse sig uden at have den røde pas. Det handlede især om en dreng som jeg tror hed Ali. Han havde rigtig mange venner her i Danmark men han fik en besked at han har 30 dag til at komme ud af Danmark. (Han var på denne tidspunkt 18-22 ish) Og ham og hans venner de dansede.
 
@@ -142,4 +160,4 @@ Det handlede egentlig om hvordan de folk har det når de ikke har rød pas og sk
 
 Nogle af de temaer teaterstykket handlede om var fx, Miljø, identitet
 
-Og det handlede om identitet fordi de folk på teaterstykket havde flere. En dansk en og så fx en palæstinensisk en.
+Og det handlede om identitet fordi de folk på teaterstykket havde flere. En dansk en og så fx en palæstinensisk en.<
