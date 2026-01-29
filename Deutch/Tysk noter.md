@@ -6,17 +6,17 @@
   **Direkte oversættelse**: Musen spiller hver dag basketball
   **Meningsmæssig oversættelse**: Musen spiller basketball hver dag
  - På tysk begynder alle navneord med stort for at kende forskel på navneord og udsagnsord. Fx `Ich esse Essen`. `esse` og `Essen`, lyder næsten det samme og kunne forvirres med hinanden, derfor begynder `Essen` med stort for at kende forskel
--  Ei på tysk lyder som ai. For eksempel `Eis` på tysk udtales som `Ais`. `Ie` på tysk udtales som et forlænget i, fx. `Liebe` på tysk udtales rent faktisk som `Liibe`.
-- S udtales mærkeligt på tysk. Nogle gange lyder det som et normalt S, andre gange lyder det som vi ville udtale Z på dansk, og andre gange lyder det som sh, eller sch på dansk. Fx `Sprichst` udtales som `Schprichst`. `Sohn` udtales som `Zohn` (med dansk z lyd), og `böse` udtales rent faktisk bare som `böse`.
+-  `Ei` på tysk lyder som `ai`. For eksempel `Eis` på tysk udtales som `Ais`. `Ie` på tysk udtales som et forlænget i, fx `Liebe` på tysk udtales rent faktisk som `Liibe`.
+- S udtales mærkeligt på tysk. Nogle gange lyder det som et normalt S, andre gange lyder det som vi ville udtale Z på dansk, og andre gange lyder det som `sh`, eller `sch` på dansk. Fx `Sprichst` udtales som `Schprichst`. `Sohn` udtales som `Zohn` (med dansk z lyd), og `böse` udtales rent faktisk bare som `böse`.
 - Der er flere bogstaver på tysk end på dansk. Her er de og deres udtalelser:
-	- Ä udtales som Æ
-	- Ö udtales som Ø
-	- Ü udtales som Y
-	- ß udtales som SS (altså dobbelt s)
+	- `Ä` udtales som `Æ`
+	- `Ö` udtales som `Ø`
+	- `Ü` udtales som `Y`
+	- `ß` udtales som `SS` (altså dobbelt s)
 - På tysk udtales nogle andre bogstaver også forskelligt:
-	- V udtales som F
-	- W udtales som V
-	- Z udtales som Ts
+	- `V` udtales som `F`
+	- `W` udtales som V
+	- `Z` udtales som `TS`
 - På tysk findes der 3 køn:
 	- Hankøn (fx, **der** Bruder)
 	- Hunkøn (fx, **die** Schwester)
@@ -26,32 +26,36 @@
 >Mädchen (pige)
 >Kaninchen (kanin)
 >
-### Endelse i datid
 
-| Ental       | Endelse |
-| ----------- | ------- |
-| Ich         | -e      |
-| Du          | -st     |
-| Er/sie/es   | -t      |
-| **Flertal** |         |
-| Wir         | -en     |
-| Ihr         | -t      |
-| sie/Sie     | -en     |
-### Bøjelse af `Sein`
+### Gradbøjning af verber
+#### Svage og stærke verber
+- Svage = uregelmæssigt
+- Stærke = regelmæssigt
+#### Endelse i nutid og datid
+##### Nutid
 
-#### Datid
+| Ental       | Endelse | Eksempel |
+| ----------- | ------- | -------- |
+| Ich         | -e      | spiele   |
+| Du          | -st     | spielst  |
+| Er/sie/es   | -t      | spielt   |
+| **Flertal** |         |          |
+| Wir         | -en     | spielen  |
+| Ihr         | -t      | spielt   |
+| sie/Sie     | -en     | spielten |
+##### Datid
+| Ental       | Endelse | Eksempel  |
+| ----------- | ------- | --------- |
+| Ich         | -te     | spielte   |
+| Du          | -test   | spieltest |
+| Er/sie/es   | -te     | spielte   |
+| **Flertal** |         |           |
+| Wir         | -ten    | spielten  |
+| Ihr         | -tet    | spieltet  |
+| sie/Sie     | -ten    | spielten  |
 
-| Ental       | Bøjelse |
-| ----------- | ------- |
-| Ich         | War     |
-| Du          | Warst   |
-| Er/sie/es   | War     |
-| **Flertal** |         |
-| Wir         | Waren   |
-| Ihr         | Wart    |
-| sie/Sie     | Waren   |
-
-#### Nutid
+#### Bøjelse af `Sein`
+##### Nutid
 
 | Ental       | Bøjelse |
 | ----------- | ------- |
@@ -63,11 +67,23 @@
 | Ihr         | Seid    |
 | sie/Sie     | Sind    |
 
+##### Datid
+
+| Ental       | Bøjelse |
+| ----------- | ------- |
+| Ich         | War     |
+| Du          | Warst   |
+| Er/sie/es   | War     |
+| **Flertal** |         |
+| Wir         | Waren   |
+| Ihr         | Wart    |
+| sie/Sie     | Waren   |
+
 
 >[!info]
 >Når man ejer noget ender man det med noget andet. Fx
 >`Meine Oma trifft Ihren Bruder im restaurant`
->Her bruger vi Ihren, fordi det er **hendes** bror.
+>Her bruger vi `Ihren`, fordi det er **hendes** bror.
 
 Hvis du bliver i tvivl så brug [Abc ordbogen](https://abc.ordbogen.com). Uanset hvad må du **IKKE** bruge [Google translate](https://www.google.com/search?client=opera&q=google+translate&sourceid=opera&ie=UTF-8&oe=UTF-8)
 
@@ -79,7 +95,7 @@ Hvis du bliver i tvivl så brug [Abc ordbogen](https://abc.ordbogen.com). Uanset
 5. Fünf
 6. Sechs
 7. Sieben
-8. Acht (ch har en KHA lyd)
+8. Acht (ch har her en `خ` lyd)
 9. Neun
 10. Zehn
 11. Elf
