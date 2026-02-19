@@ -29,9 +29,9 @@
 
 ### Gradbøjning af verber
 #### Svage og stærke verber
-- Svage = uregelmæssigt
-- Stærke = regelmæssigt
-#### Endelse i nutid og datid
+- Svage = regelmæssigt
+- Stærke = uregelmæssigt
+#### Endelse i nutid og datid for svage verber
 ##### Nutid
 
 | Ental       | Endelse | Eksempel |
@@ -54,6 +54,29 @@
 | Ihr         | -tet    | spieltet  |
 | sie/Sie     | -ten    | spielten  |
 
+#### Endelse i nutid og datid for stærke verber
+##### Nutid
+
+| Ental       | Endelse | Eksempel |
+| ----------- | ------- | -------- |
+| Ich         | -e      | esse     |
+| Du          | -st     | isst     |
+| Er/sie/es   | -t      | isst     |
+| **Flertal** |         |          |
+| Wir         | -en     | essen    |
+| Ihr         | -t      | esst     |
+| sie/Sie     | -en     | essen    |
+##### Datid
+| Ental       | Endelse                        | Eksempel    |
+| ----------- | ------------------------------ | ----------- |
+| Ich         | ingen (ændring på stammevokal) | aß          |
+| Du          | -st (ændring på stammevokal)   | aßt / aßest |
+| Er/sie/es   | ingen (ændring på stammevokal) | aß          |
+| **Flertal** |                                |             |
+| Wir         | -en (ændring på stammevokal)   | aßen        |
+| Ihr         | -t (ændring på stammevokal)    | aßt         |
+| sie/Sie     | -en (ændring på stammevokal)   | aßen        |
+(Der bliver stadig brugt verbet `esse`, som eksemmpel)
 #### Bøjelse af `Sein`
 ##### Nutid
 
