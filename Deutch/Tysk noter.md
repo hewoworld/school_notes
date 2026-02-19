@@ -76,7 +76,14 @@
 | Wir         | -en (ændring på stammevokal)   | aßen        |
 | Ihr         | -t (ændring på stammevokal)    | aßt         |
 | sie/Sie     | -en (ændring på stammevokal)   | aßen        |
-(Der bliver stadig brugt verbet `esse`, som eksemmpel)
+(Der bliver stadig brugt verbet `esse`, som eksempel)
+
+##### Stammevokalregler (ændringer)
+- `a`→`ä`
+- `a`→`u/i` (meget sjældent)
+- `u`→`ü` (kun når det er datid)
+- `o`→`ö`
+- `e`→`i`
 #### Bøjelse af `Sein`
 ##### Nutid
 
