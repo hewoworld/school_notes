@@ -65,3 +65,19 @@ $C^6H^12O^6 + 6 O^2 → 6 CO^2 + 6 H^2O + e$
 - Afmagnetisering = når et magnetisk materiale mister sin magnetisme
 - Savklinge = Metallet på en sav, der bruges til at skære med.
 - Curie punktet = den temperatur, hvor et ferromagnetisk materiale mister sin permanente magnetisme og bliver paramagnetisk
+
+
+## Stråler og kræft
+###  Strålebehandling
+1. Hvad afhænger kræftbehandling af ifølge teksten?
+	1. Det afhænger af typen af cellen, som kræften stammer fra
+2. Hvad er metastaser?
+	1. Metastase, er når kræft spreder sig fra den primære tumor, ud til resten af kroppen
+3. Hvilke tre mest brugte behandlingsmetoder mod kræft nævnes i teksten
+	1. Skære svulsten væk
+	2. Kemoterapi
+	3. Strålebehandling
+4. Hvordan virker strålebehandling på cellerne?
+	1. Det skaber radikaler i cellerne, som kan bryde cellens molekyler ned. Hvis man stråler normale celler nok, bliver de ikke skadet, mere fordi de er mere robuste end kræftceller 
+5. Hvorfor kan raske celler bedre overleve strålebehandling end kræftceller
+	1. De er mere robuste end kræftceller, og er bedre til at heale dem selv.
