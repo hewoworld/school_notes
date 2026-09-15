@@ -22,8 +22,23 @@
 	- En linje der går gennem midten
 - **Radius**
 	- Halvdelen af diameter
-- **Cosinus**
-	- En diagonal linje der går fra midten af cirklen til en kant. Der hvor linjen ender er Cosinus
+### Trigonometri
+**Huskeregler:**
+$cos(x)=sin(90-x)$
+$sin(x)=cos(90-x)$
+$cos(x)^2+sin(x)^2=1^2$
+#### Sinitus
+$sin(x)=modsat/hypotenuse$
+**Huskeregler**:
+sin(30)=0,5
+sin(45)=$sqrt(2)/2$
+sin(60)=$sqrt(3)/2$
+#### Cosinus
+$cos(x)=hosliggende/hypotenuse$
+**Huskeregler**:
+$cos(30)=sqrt(3)/2$
+$cos(45)=sqrt(2)/2$
+$cos(60)=0,5$
 ### Polygoner
 ##### Fagord
 - **Grundlinje**
@@ -47,16 +62,18 @@
 	  Vinkelsummen i en polygon = $(n-2)*180$ 
 - Regulær polygon
 	- En polygon hvor alle sider er lige lange og alle vinkler er lige store
-- Linjes ligning
-	- $y=ax+b$
-		- a=hældning (hvor meget x, der bliver krydset før y bliver ændret)
-			- $a=y^2+y^1/x^2-x^1$
-		- b=skæringspunkt (hvor linjen rammer y-aksen)
-			- $b = y^1 - a * x^1$
 #### Trekantens areal, omkreds og graderne i en trekant
 **Areal**
 $Trekantareal=højde*grundlinje:2$
 
+### Linjer og grafer
+#### Linjes ligning:
+$y=ax+b$
+a er hældningstallet og b er skæringspunktet med y-aksen
+#### Hvordan man finder a og b
+Find 2 punkter på linjen og kør dem igennem funktionen:
+- $a=y^2+y^1/x^2-x^1$
+- $b = y^1 - a * x^1$
 ## Hastighed, tid og distance
 ### Beregning af hastighed ud fra tid og distance
 Gennemsnitshastighed = Distance i km * 60 / Tid i minutter

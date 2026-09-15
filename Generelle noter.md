@@ -26,3 +26,5 @@
 - ***M***igrerer = ***M***ellem byerne
 - ***E***migrerer = ***E***fterlader sit land, for et håb om en anden chance.
 - ***I***mmigrant = Når man er flyttet ***I***nd i et land
+- Attentat = Et planlagt og udført mord eller angreb på en offentlig kendt person
+- Piemonte = politisk samlingspunkt

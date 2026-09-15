@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"f75d151eea057dce","x":-420,"y":-340,"width":940,"height":500,"type":"group","label":"Førnutid- og datid"},
+		{"id":"748dfdb5cb07c305","x":-355,"y":-320,"width":80,"height":60,"type":"text","text":"Ich"},
+		{"id":"ad1bf4cac6766014","x":-295,"y":-70,"width":250,"height":60,"type":"text","text":"Hjælpeverbum"},
+		{"id":"8a6e6ad79c4f4280","type":"text","text":"habe","x":-275,"y":-320,"width":95,"height":60},
+		{"id":"d85357557ab704aa","type":"text","text":"eine neue","x":-180,"y":-320,"width":120,"height":60},
+		{"id":"1133a7f815b08b8c","x":-400,"y":-130,"width":250,"height":60,"type":"text","text":"Grundled"},
+		{"id":"7529c1c79f54099d","type":"text","text":"Jacke","x":-60,"y":-320,"width":120,"height":60},
+		{"id":"8835cf481b739c0e","x":-45,"y":-130,"width":250,"height":60,"type":"text","text":"Genstandsled"},
+		{"id":"b52766e1ebb4f451","type":"text","text":"Gekauft","x":60,"y":-320,"width":120,"height":60},
+		{"id":"069809d55224b7de","type":"text","text":"Hovedverbum","x":80,"y":-220,"width":250,"height":60},
+		{"id":"fd74ba22c55a4c3b","x":-190,"y":-190,"width":250,"height":60,"type":"text","text":"Udsagnsled"},
+		{"id":"be26092bd395f01b","x":-68,"y":6,"width":248,"height":134,"type":"text","text":"**Hovedverbum** i **hovedsætningen** i førnutid- og datid står ==sidst== i sætning i korttillægsform"}
+	],
+	"edges":[
+		{"id":"e583fd935a99bfdc","fromNode":"ad1bf4cac6766014","fromSide":"top","toNode":"8a6e6ad79c4f4280","toSide":"bottom"},
+		{"id":"045019693172ad9e","fromNode":"069809d55224b7de","fromSide":"top","toNode":"b52766e1ebb4f451","toSide":"bottom"},
+		{"id":"e55191d47c8af055","fromNode":"8835cf481b739c0e","fromSide":"top","toNode":"7529c1c79f54099d","toSide":"bottom"},
+		{"id":"28b19d68791a29f9","fromNode":"1133a7f815b08b8c","fromSide":"top","toNode":"748dfdb5cb07c305","toSide":"bottom"},
+		{"id":"6370dd57fcb10e87","fromNode":"fd74ba22c55a4c3b","fromSide":"top","toNode":"8a6e6ad79c4f4280","toSide":"bottom"}
+	]
+}

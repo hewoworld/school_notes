@@ -40,6 +40,9 @@ Dem, der sørger for at lovene bliver holdt
 Dem, der dømmer folk, der har brudt lovene
 ## Verdenskrigene
 ### 1. verdenskrig
+#### Øst
+- Kommunisme og socialisme
+
 ### 2. verdenskrig
 
 ## Industrialiseringen

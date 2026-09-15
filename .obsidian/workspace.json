@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "1d239e23367a8171",
+            "id": "952acc2183946b9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,49 +36,7 @@
             }
           },
           {
-            "id": "598b1da127db39b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kulturfag/Historie/Historie noter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Historie noter"
-            }
-          },
-          {
-            "id": "cbead9d266873516",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Naturfag/Geografi/Geografi noter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Geografi noter"
-            }
-          },
-          {
-            "id": "8d6e5855c7e6d087",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Naturfag/Fysik  og Kemi/Fysik og kemi noter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fysik og kemi noter"
-            }
-          },
-          {
-            "id": "8e7a2b41f06cf5fd",
+            "id": "5563284e82bc8904",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,23 +48,9 @@
               "icon": "lucide-file",
               "title": "Tysk noter"
             }
-          },
-          {
-            "id": "952acc2183946b9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Generelle noter.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Generelle noter"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,10 +70,12 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Filer"
             }
           },
           {
@@ -174,12 +120,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "37b61f6079ca34a6",
+            "id": "cbc2978f077a635a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Naturfag/Fysik  og Kemi/Fysik og kemi noter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Tilbagelinks for Fysik og kemi noter"
             }
           },
           {
@@ -198,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Naturfag/Fysik  og Kemi/Fysik og kemi noter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Udgående links fra Fysik og kemi noter"
             }
           },
           {
@@ -245,26 +191,37 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Åbn Hurtigskifter": false,
+      "command-palette:Åbn kommandopalet": false,
+      "graph:Åbn grafvisning": false,
+      "canvas:Opret nyt lærred": false,
+      "daily-notes:Åbn dagens note": false,
+      "templates:Indsæt skabelon": false,
+      "bases:Opret ny base": false
     }
   },
-  "active": "8d6e5855c7e6d087",
+  "active": "5563284e82bc8904",
   "lastOpenFiles": [
-    "Dansk/Dansk noter.md",
-    "Naturfag/Geografi/Geografi noter.md",
-    "Generelle noter.md",
-    "Kulturfag/Historie/Historie noter.md",
-    "Naturfag/Biologi/Biologi noter.md",
-    "Matematik/Matematik noter.md",
-    "Kulturfag/Religion/Religion noter.md",
-    "Naturfag/Fysik  og Kemi/Fysik og kemi noter.md",
+    "Deutch/Førnutid og førdatid grammatik.canvas",
     "Deutch/Tysk noter.md",
+    "Unavngivet.md",
+    "Kulturfag/Samfundsfag/Samfundsfag noter.md",
+    "Untitled.base",
+    "Pasted image 20260623101225.png",
+    "HDS/HDS noter.md",
+    "Naturfag/Fysik  og Kemi/Fysik og kemi noter.md",
+    "README.md",
+    "Skema for fag.md",
+    "Kulturfag/Samfundsfag",
+    "Matematik/Matematik noter.md",
+    "Dansk/Dansk noter.md",
+    "Generelle noter.md",
+    "Stammevokalregler.md",
+    "Pictures/elektromagnetisk spektrum.jpg",
+    "Kulturfag/Historie/Historie noter.md",
+    "Naturfag/Geografi/Geografi noter.md",
+    "Naturfag/Biologi/Biologi noter.md",
+    "Kulturfag/Religion/Religion noter.md",
     "Billed eksempel.md",
     "Pictures/mitokondria.png",
     "Pictures/mitokondria.png.opdownload",
@@ -277,15 +234,12 @@
     "Pictures/sp_ndingsr_kken_5-3-7.webp.opdownload",
     "Pictures/Bæredygtighed.png.opdownload",
     "voinkel.png",
-    "HDS/HDS noter.md",
     "Untitled",
     "abc.ordbogen.com.md",
     "Pictures",
     "Naturfag/Geografi",
     "Naturfag/Biologi",
     "Naturfag/Fysik  og Kemi",
-    "Kulturfag/Historie",
-    "Kulturfag/Religion",
     "Welcome.md"
   ]
 }

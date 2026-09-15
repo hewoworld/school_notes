@@ -84,8 +84,9 @@
 - `u`→`ü` (kun når det er datid)
 - `o`→`ö`
 - `e`→`i`
-#### Bøjelse af `Sein`
-##### Nutid
+#### Bøjelse af hjælpeverber
+##### Bøjelse af `Sein`
+###### Nutid
 
 | Ental       | Bøjelse |
 | ----------- | ------- |
@@ -97,7 +98,7 @@
 | Ihr         | Seid    |
 | sie/Sie     | Sind    |
 
-##### Datid
+###### Datid
 
 | Ental       | Bøjelse |
 | ----------- | ------- |
@@ -108,7 +109,56 @@
 | Wir         | Waren   |
 | Ihr         | Wart    |
 | sie/Sie     | Waren   |
+##### Bøjelse af `Haben`
+###### Nutid
 
+| Ental       | Bøjelse |
+| ----------- | ------- |
+| Ich         | habe    |
+| Du          | hast    |
+| Er/sie/es   | hat     |
+| **Flertal** |         |
+| Wir         | haben   |
+| Ihr         | habt    |
+| sie/Sie     | haben   |
+
+###### Datid
+
+| Ental       | Bøjelse |
+| ----------- | ------- |
+| Ich         | hatte   |
+| Du          | hattest |
+| Er/sie/es   | hatte   |
+| **Flertal** |         |
+| Wir         | hatte   |
+| Ihr         | hattet  |
+| sie/Sie     | hatte   |
+##### Bøjelse af `Waren`
+###### Nutid
+
+| Ental       | Bøjelse |
+| ----------- | ------- |
+| Ich         | werde   |
+| Du          | wirst   |
+| Er/sie/es   | wird    |
+| **Flertal** |         |
+| Wir         | werden  |
+| Ihr         | werdet  |
+| sie/Sie     | werden  |
+
+###### Datid
+
+| Ental       | Bøjelse |
+| ----------- | ------- |
+| Ich         | wurde   |
+| Du          | wurdest |
+| Er/sie/es   | wurde   |
+| **Flertal** |         |
+| Wir         | wurden  |
+| Ihr         | wurdet  |
+| sie/Sie     | wurden  |
+#### Bøjelse i førnutid og førdatid
+### Tips
 
 >[!info]
 >Når man ejer noget ender man det med noget andet. Fx
@@ -117,6 +167,8 @@
 
 Hvis du bliver i tvivl så brug [Abc ordbogen](https://abc.ordbogen.com). Uanset hvad må du **IKKE** bruge [Google translate](https://www.google.com/search?client=opera&q=google+translate&sourceid=opera&ie=UTF-8&oe=UTF-8)
 
+### Sætningsanalyse
+[[Førnutid og førdatid grammatik.canvas]]
 ## Tyske tal
 1. Eins
 2. Zwei

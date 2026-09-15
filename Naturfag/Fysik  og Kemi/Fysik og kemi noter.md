@@ -81,3 +81,19 @@ $C^6H^12O^6 + 6 O^2 → 6 CO^2 + 6 H^2O + e$
 	1. Det skaber radikaler i cellerne, som kan bryde cellens molekyler ned. Hvis man stråler normale celler nok, bliver de ikke skadet, mere fordi de er mere robuste end kræftceller 
 5. Hvorfor kan raske celler bedre overleve strålebehandling end kræftceller
 	1. De er mere robuste end kræftceller, og er bedre til at heale dem selv.
+
+### Fokusord:
+- Bølger = En forstyrrelse der flytter energi fra et sted til et andet, uden at flytte selve massen. Når en bølge bevæger sig, svinger partiklerne i mediet, op og ned eller frem og tilbage
+- Bølgelængde = Afstanden på to bølgetoppe
+- Frekvens = Antallet af bølger pr. sekund
+- Svingninger = 1 svingning = 1 bølge
+- Lys = elektromagnetisk stråling, det menneskelige øje kan opfatte
+- Lyd = vibrationer og trykbølger, der bevæger sig gennem luften
+- Elektromagnetiske spektrum = <img src='Pictures/elektromagnetisk spektrum.jpg' width='447' height='305' align = 'right'> en skala over al elektromagnetisk stråling, der går fra UV-stråler, til mikrobølger
+## Bæredygtighed
+### Bæredygtighedsmodel
+
+### Hvornår er noget bæredygtigt og hvornår er det ikke bæredygtigt?
+Bæredygtighed handler om hvor meget mennesker slider på naturen. Menneskelige aktiviteter er bæredygtige hvis de ikke forringer mulighederne for at fremtidige generationer kan dække deres behov. Fortidens primitive jæger- og samlersamfund var bæredygtige, idet naturen hurtigt kunne reparere de små påvirkninger fra samfundene.
+
+Bæredygtighed rummer mange emner. Nogle af dem kan behandles med naturvidenskabens begreber. De vigtigste handler om ressourcer, biodiversitet, energi, miljø og klima. Disse emner er til en vis grad blandet sammen.
